@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5cbb62f-fec7-4eb4-9040-6059bb2546dd" name="Changes" comment="Get Reply from gemini">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AI_chatbot_project/api key.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI_chatbot_project/AI_Chatbot.py" beforeDir="false" afterPath="$PROJECT_DIR$/AI_chatbot_project/AI_Chatbot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI_chatbot_project/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AI_chatbot_project/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +103,23 @@
       <option name="project" value="LOCAL" />
       <updated>1761234169945</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Get Reply from gemini">
+      <option name="closed" value="true" />
+      <created>1761234497581</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1761234497581</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Get Reply from gemini">
+      <option name="closed" value="true" />
+      <created>1761234542825</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1761234542825</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
