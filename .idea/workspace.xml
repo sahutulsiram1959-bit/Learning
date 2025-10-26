@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5cbb62f-fec7-4eb4-9040-6059bb2546dd" name="Changes" comment="Get Reply from gemini">
-      <change afterPath="$PROJECT_DIR$/Chatgpt_scrap/chatgptscrap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot_website/request.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot_website/screenshot_webpage.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot_website/screenshot_webpage.py" beforeDir="false" afterPath="$PROJECT_DIR$/screenshot_website/screenshot_webpage.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,7 +165,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761414061694</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Get Reply from gemini">
+      <option name="closed" value="true" />
+      <created>1761459867514</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1761459867514</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="UnknownFeatures">
