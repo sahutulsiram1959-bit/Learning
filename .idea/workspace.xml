@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d5cbb62f-fec7-4eb4-9040-6059bb2546dd" name="Changes" comment="Get Reply from gemini" />
+    <list default="true" id="d5cbb62f-fec7-4eb4-9040-6059bb2546dd" name="Changes" comment="Get Reply from gemini">
+      <change afterPath="$PROJECT_DIR$/Chatgpt_scrap/chatgptscrap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot_website/request.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot_website/screenshot_webpage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +23,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/AI_chatbot_project" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -146,7 +151,23 @@
       <option name="project" value="LOCAL" />
       <updated>1761412876086</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Get Reply from gemini">
+      <option name="closed" value="true" />
+      <created>1761413057331</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1761413057331</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Get Reply from gemini">
+      <option name="closed" value="true" />
+      <created>1761414061694</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1761414061694</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="UnknownFeatures">
