@@ -1,0 +1,11 @@
+# Ignore Google API tokens and credentials
+token.json
+credentials.json
+
+# Ignore environment files
+.env
+key.env
+
+# Ignore temporary files
+__pycache__/
+*.pyc
