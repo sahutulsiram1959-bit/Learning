@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5cbb62f-fec7-4eb4-9040-6059bb2546dd" name="Changes" comment="Screenshot a website">
-      <change afterPath="$PROJECT_DIR$/gmail_extractor/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmail_extractor/actual_extract.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmail_extractor/gmail_extract_aut.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmail_extractor/requirement.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmail_extractor/streamlit_extract.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excel_Dashboard/excel_dashboard.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshot_website/screenshot_webpage.py" beforeDir="false" afterPath="$PROJECT_DIR$/screenshot_website/screenshot_webpage.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -195,7 +190,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761465496996</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Screenshot a website">
+      <option name="closed" value="true" />
+      <created>1761630995852</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1761630995852</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -213,6 +216,11 @@
           <url>file://$PROJECT_DIR$/main.py</url>
           <line>8</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Excel_Dashboard/excel_dashboard.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
